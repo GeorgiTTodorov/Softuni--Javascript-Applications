@@ -1,0 +1,1 @@
+To run npm install page and lit-html. To send requests to the server change directory in VS to the server folder and type in the console node server.js.

@@ -1,0 +1,1 @@
+To run - npm i lit-html. Requests were made to a local server - the server folder in the repo
